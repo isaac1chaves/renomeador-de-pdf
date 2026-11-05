@@ -1,0 +1,18 @@
+ORIENTACOES PARA ALTERACAO DOS TERMS DE USO
+
+Arquivo aplicado pelo instalador:
+  TERMS/TERMS_OF_USE.txt
+
+Antes de alterar:
+1. Solicitar revisao das areas responsaveis da organizacao, especialmente Juridico, TI, Seguranca da Informacao e Protecao de Dados.
+2. Registrar a data, a versao do aplicativo, o responsavel pela aprovacao e um resumo da mudanca.
+3. Nao incluir promessas de seguranca, conformidade ou disponibilidade que nao tenham sido homologadas.
+4. Executar os testes do projeto e gerar um novo instalador.
+5. Arquivar a versao anterior dos termos conforme a politica institucional.
+
+HISTORICO DE ALTERACOES
+Data: ____/____/______
+Versao do aplicativo: __________
+Responsavel pela alteracao: ______________________________
+Aprovado por: ___________________________________________
+Resumo: __________________________________________________

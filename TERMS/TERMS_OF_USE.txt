@@ -1,0 +1,128 @@
+CONTRATO DE LICENCA DE USO DE SOFTWARE - RENAPSI
+
+Pesquisa de Abrangencia
+
+Copyright  2026 RENAPSI.
+Todos os direitos reservados.
+
+IMPORTANTE: LEIA COM ATENCAO ANTES DE INSTALAR, COPIAR, ACESSAR OU UTILIZAR ESTE SOFTWARE.
+
+Ao instalar, copiar, acessar ou utilizar este software, o usuario declara que leu, compreendeu e concorda integralmente com os termos deste Contrato de Licenca de Uso. Caso nao concorde com qualquer uma das condicoes abaixo, o usuario nao devera instalar, acessar ou utilizar este software.
+
+1. PROPRIEDADE DO SOFTWARE
+
+Este software, incluindo sua interface, funcionalidades, arquivos, imagens, textos, codigos, estrutura, banco de dados, documentacao, identidade visual, marcas, nomes comerciais e demais elementos relacionados, e de propriedade exclusiva da RENAPSI ou de seus respectivos titulares licenciantes.
+
+A disponibilizacao deste software nao transfere ao usuario qualquer direito de propriedade, titularidade, autoria ou participacao sobre o sistema. O usuario recebe apenas uma licenca limitada de uso, conforme os termos aqui descritos.
+
+2. CONCESSAO DE LICENCA
+
+A RENAPSI concede ao usuario uma licenca limitada, revogavel, pessoal, intransferivel, nao exclusiva e nao sublicenciavel para instalar e utilizar este software exclusivamente para as finalidades autorizadas pela RENAPSI.
+
+Esta licenca e concedida apenas para uso legitimo, institucional, administrativo ou operacional relacionado as atividades autorizadas pela RENAPSI.
+
+3. RESTRICOES DE USO
+
+E expressamente proibido ao usuario, sem autorizacao previa e por escrito da RENAPSI:
+
+a) copiar, reproduzir, distribuir, vender, alugar, emprestar, sublicenciar, ceder, transferir ou comercializar este software, total ou parcialmente;
+
+b) modificar, adaptar, traduzir, alterar, editar, transformar ou criar obras derivadas a partir deste software;
+
+c) realizar engenharia reversa, descompilacao, desmontagem, extracao, analise indevida ou qualquer tentativa de obtencao do codigo-fonte, logica interna, algoritmos, estrutura ou funcionamento do software;
+
+d) remover, ocultar, alterar ou falsificar avisos de direitos autorais, marcas, identificacoes, creditos, telas, mensagens, assinaturas digitais ou informacoes de propriedade da RENAPSI;
+
+e) utilizar o software para finalidade diferente daquela autorizada pela RENAPSI;
+
+f) utilizar o software de forma que possa prejudicar, comprometer, sobrecarregar, fraudar, burlar, interferir ou causar dano aos sistemas, dados, servidores, usuarios, parceiros ou a propria RENAPSI;
+
+g) compartilhar o software com terceiros nao autorizados;
+
+h) publicar, disponibilizar ou hospedar copias do software em sites, repositorios, redes sociais, servicos de armazenamento, plataformas de download ou qualquer outro meio publico ou privado sem autorizacao formal;
+
+i) utilizar mecanismos, programas, scripts, automacoes, alteracoes ou recursos externos com o objetivo de burlar limitacoes, permissoes, validacoes, atualizacoes, mecanismos de seguranca ou qualquer controle implementado pela RENAPSI.
+
+4. ATUALIZACOES E ALTERACOES
+
+A RENAPSI podera, a qualquer momento, disponibilizar atualizacoes, correcoes, melhorias, alteracoes, novas versoes ou descontinuar funcionalidades deste software, sem que isso gere qualquer obrigacao de manutencao permanente, indenizacao, compensacao ou continuidade indefinida.
+
+O usuario reconhece que versoes anteriores poderao deixar de ser suportadas, atualizadas ou consideradas seguras.
+
+5. USO AUTORIZADO E REVOGACAO
+
+O uso deste software podera ser suspenso, bloqueado ou revogado pela RENAPSI em caso de uso indevido, violacao deste contrato, tentativa de burla, distribuicao nao autorizada, alteracao indevida ou qualquer conduta que possa comprometer a seguranca, integridade, reputacao ou operacao da RENAPSI.
+
+A revogacao da licenca nao gera ao usuario direito a indenizacao, reembolso, compensacao ou permanencia no uso do software.
+
+6. PROTECAO DE DADOS E INFORMACOES
+
+O usuario compromete-se a utilizar o software de forma responsavel, observando a legislacao aplicavel, incluindo normas de protecao de dados pessoais, seguranca da informacao, confidencialidade e boas praticas institucionais.
+
+Caso o software processe, armazene ou exiba informacoes internas, cadastrais, administrativas ou operacionais, o usuario devera manter tais informacoes sob sigilo e utiliza-las apenas para os fins autorizados.
+
+7. AUSENCIA DE GARANTIA ABSOLUTA
+
+Este software e fornecido no estado em que se encontra, podendo estar sujeito a falhas, indisponibilidades, erros, incompatibilidades, limitacoes tecnicas ou necessidade de ajustes.
+
+A RENAPSI nao garante que o software funcionara de forma ininterrupta, livre de erros, compativel com todos os ambientes, sistemas, computadores ou configuracoes utilizadas pelo usuario.
+
+Sempre que possivel, a RENAPSI podera adotar medidas para correcao, melhoria e atualizacao do software, sem assumir obrigacao ilimitada de suporte ou manutencao.
+
+8. LIMITACAO DE RESPONSABILIDADE
+
+Na maxima extensao permitida pela legislacao aplicavel, a RENAPSI nao sera responsavel por danos indiretos, incidentais, especiais, consequenciais, perda de dados, perda de produtividade, interrupcao de atividades, falhas decorrentes de mau uso, alteracoes indevidas, ambiente inadequado, sistemas de terceiros, virus, incompatibilidades ou uso nao autorizado do software.
+
+O usuario e responsavel por manter seu ambiente computacional seguro, atualizado e adequado para execucao do software.
+
+9. DIREITOS AUTORAIS E PROPRIEDADE INTELECTUAL
+
+Todos os direitos autorais, patrimoniais, intelectuais, industriais e demais direitos relacionados a este software pertencem exclusivamente a RENAPSI ou a seus respectivos titulares.
+
+Nenhuma disposicao deste contrato deve ser interpretada como transferencia, cessao, renuncia ou venda de qualquer direito da RENAPSI ao usuario.
+
+Qualquer uso nao autorizado podera sujeitar o infrator as medidas administrativas, civeis e criminais cabiveis.
+
+10. COMPONENTES DE TERCEIROS
+
+Este software podera utilizar componentes, bibliotecas, dependencias, ferramentas ou tecnologias de terceiros, os quais permanecem sujeitos as suas respectivas licencas e termos de uso.
+
+A utilizacao desses componentes nao concede ao usuario qualquer direito adicional sobre o software da RENAPSI.
+
+11. CONFIDENCIALIDADE
+
+O usuario devera manter sigilo sobre informacoes internas, fluxos, telas, processos, dados, credenciais, configuracoes, acessos ou qualquer informacao obtida por meio do uso deste software que nao seja publica ou expressamente autorizada para divulgacao.
+
+Essa obrigacao permanecera valida mesmo apos o termino do uso do software.
+
+12. PROIBICAO DE BURLA
+
+E terminantemente proibida qualquer tentativa de contornar, desabilitar, remover, modificar, fraudar ou interferir em mecanismos de seguranca, validacao, atualizacao, autenticacao, controle de acesso, protecao contra copia, restricoes de uso ou qualquer outra medida tecnica implementada no software.
+
+A tentativa de burla, ainda que nao produza resultado, sera considerada violacao grave deste contrato.
+
+13. ENCERRAMENTO DA LICENCA
+
+Este contrato permanecera valido enquanto o usuario estiver utilizando o software, podendo ser encerrado automaticamente em caso de descumprimento de qualquer condicao aqui prevista.
+
+Com o encerramento da licenca, o usuario devera interromper imediatamente o uso do software e remover todas as copias instaladas ou armazenadas, salvo quando expressamente autorizado pela RENAPSI.
+
+14. DISPOSICOES GERAIS
+
+Se qualquer clausula deste contrato for considerada invalida ou inexequivel, as demais permanecerao validas e em pleno vigor.
+
+A tolerancia da RENAPSI quanto a eventual descumprimento deste contrato nao constituira renuncia de direito, perdao, autorizacao permanente ou alteracao contratual.
+
+Este contrato constitui o acordo integral entre o usuario e a RENAPSI quanto ao uso deste software.
+
+15. ACEITACAO
+
+Ao prosseguir com a instalacao ou utilizacao deste software, o usuario declara estar ciente e de acordo com todos os termos deste Contrato de Licenca de Uso.
+
+RENAPSI
+Todos os direitos reservados.
+
+
+16. DISTRIBUICAO OFICIAL
+
+A distribuicao realizada pela RENAPSI ou por repositorios, paginas e canais expressamente autorizados pela RENAPSI constitui distribuicao oficial e nao viola as restricoes deste contrato.

@@ -1,0 +1,7 @@
+PyMuPDF==1.26.4
+opencv-python==4.11.0.86
+pytesseract==0.3.13
+Pillow==11.3.0
+numpy==2.2.6
+
+tkinterdnd2==0.4.3

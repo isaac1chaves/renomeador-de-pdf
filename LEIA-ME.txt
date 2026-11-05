@@ -1,0 +1,21 @@
+RENOMEADOR DE FOLHAS (RDF) - PACOTE PARA AVALIAÇÃO INSTITUCIONAL
+Versão 2.1.0
+
+FINALIDADE
+Ferramenta interna de automacao documental com OCR, classificacao, revisao humana, visualizacao e exportacao de documentos.
+
+ALTERACOES DESTA EDICAO
+- Removido o sistema de atualizacao automatica e sua dependencia de repositorio pessoal.
+- Preservada a barra de progresso usada pelo processamento e OCR.
+- Criada a pasta TERMS para facilitar revisao e manutencao institucional.
+- Criada a pasta DOCUMENTATION com guia de entrega e governanca.
+- Geracao alterada para produzir pacote de entrega local com SHA-256, sem publicacao no GitHub.
+
+INICIO RAPIDO
+1. Instale Python 3.10 ou superior, as dependencias de requirements.txt e o Tesseract OCR.
+2. Execute: python rdf.py
+3. Execute os testes: python -m unittest discover -s tests -q
+4. No Windows, use BUILD_RDF_PACKAGE.bat para gerar o instalador.
+
+IMPORTANTE
+Este pacote e uma versao para avaliacao interna, nao homologada para uso com dados reais ou implantacao. A utilizacao em ambiente institucional depende de avaliacao e aprovacao das areas responsaveis.
